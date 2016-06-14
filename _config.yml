@@ -1,0 +1,14 @@
+layout_spectrum: 0.6554841122124344
+typography_spectrum: 0.4274036940187216
+color:
+  brandStrength: 0.17856516549363732
+  lightness: 0.524638554546982
+  saturation: 0.08629866945557296
+  rhythmicContrast: 0.9251388162374496
+  brandColors:
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+name: remagine
